@@ -45,6 +45,10 @@ EDA involved the exploring of the data to answer some questions about the data s
   SELECT * FROM TABLE 1
   WHERE CONDITION = TRUE
   ```
+---
+
+### Data Visualization
+
 
      
     
