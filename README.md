@@ -10,8 +10,23 @@ The primary source of data used here is Data Sale.CSV, and this is an open sourc
 
 ### Tools Used
 - Microsoft Excel [Download here](https://www.microsoft.com)
-  1. for Data Cleaning
+  1. For Data Cleaning
   2. For Analysis
   3. For Data  Visualization
 - SQL-  Structured Query Language for querying of data
 - Github for Portfolio Building
+
+### Data Cleaning and Preparations
+in the initial phase of the data cleaning and preparations, we perform the following actions;
+  1. Data loading and inspection
+  2. Handling missing variables
+  3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data such as;
+- What is the overall sales trend
+- Which products are top sellers
+- What are the products on peak sales?
+
+     
+    
