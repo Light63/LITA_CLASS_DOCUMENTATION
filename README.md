@@ -52,3 +52,9 @@ EDA involved the exploring of the data to answer some questions about the data s
 ![image alt](https://github.com/Light63/LITA_CLASS_DOCUMENTION/blob/main/sql%20language.jpeg?raw=true)
      
     
+
+😆
+
+|heading 1| heading 2| heading 3|
+|---------|----------|----------|
+| Table 1| Table 2| Table 3|
