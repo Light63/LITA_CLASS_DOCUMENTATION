@@ -49,6 +49,6 @@ EDA involved the exploring of the data to answer some questions about the data s
 
 ### Data Visualization
 
-
+![image alt](https://github.com/Light63/LITA_CLASS_DOCUMENTION/blob/main/sql%20language.jpeg?raw=true)
      
     
