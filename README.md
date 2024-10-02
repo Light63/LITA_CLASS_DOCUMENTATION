@@ -1,6 +1,6 @@
 # LITA_CLASS_DOCUMENTION
 
-### Project Title: E Commerce Sales Analysis
+### Project Title: My Data Analysis Journey
 
 ---
 
